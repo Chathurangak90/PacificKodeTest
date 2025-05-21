@@ -22,6 +22,6 @@ Update the connection string to point to your local SQL Server instance.
 3. 🌐 Web Project Configuration
 Open the appsettings.json file in the Web project.
 
-No need to modify the localhost port number.
+Need to modify the localhost port number.
 
-The Web project will automatically communicate with the API running on localhost and its assigned port.
+The Web project will communicate with the API running on localhost and its assigned port.
