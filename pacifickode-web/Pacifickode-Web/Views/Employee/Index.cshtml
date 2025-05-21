@@ -1,0 +1,88 @@
+﻿<div class="container mt-4">
+    <h2 class="mb-4 text-success">Employees</h2>
+
+    <!-- Add New Employee Form -->
+    <div class="card mb-4 shadow-sm">
+        <div class="card-body">
+            <form id="employees" class="row g-3">
+                <input type="hidden" id="employee-id" name="employee-id" value="0" />
+
+                <div class="col-md-6">
+                    <label for="first-name" class="form-label">First Name</label>
+                    <input type="text" id="first-name" name="first-name" class="form-control" placeholder="Enter first name" maxlength="50" />
+                </div>
+
+                <div class="col-md-6">
+                    <label for="last-name" class="form-label">Last Name</label>
+                    <input type="text" id="last-name" name="last-name" class="form-control" placeholder="Enter last name" maxlength="50" />
+                </div>
+
+                <div class="col-md-6">
+                    <label for="email" class="form-label">Email</label>
+                    <input type="email" id="email" name="email" class="form-control" placeholder="Enter email address" maxlength="100" />
+                </div>
+
+                <div class="col-md-6">
+                    <label for="date-of-birth" class="form-label">Date of Birth</label>
+                    <input type="date" id="date-of-birth" name="date-of-birth" class="form-control" />
+                </div>
+
+                <div class="col-md-6">
+                    <label for="age" class="form-label">Age</label>
+                    <input type="number" id="age" name="age" class="form-control" readonly />
+                </div>
+
+                <div class="col-md-6">
+                    <label for="salary" class="form-label">Salary</label>
+                    <input type="number" id="salary" name="salary" class="form-control" placeholder="Enter salary" step="0.01" />
+                </div>
+
+                <div class="col-md-6">
+                    <label for="department-id" class="form-label">Department</label>
+                    <select id="department-id" name="department-id" class="form-select">
+                        <option value="">Select department</option>
+                    </select>
+                </div>
+
+                <!-- Buttons -->
+                <div class="row">
+                    <div class="col-6" style="width:74px;margin-top:5px;padding-left:8px">
+                        <button type="button" id="btn-new" class="btn btn-outline-secondary">New</button>
+                    </div>
+                    <div class="col-6" style="margin:5px">
+                        <button type="submit" id="btn-save" class="btn btn-primary">Save</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Employees Table -->
+    <table class="table table-striped table-hover table-bordered shadow-sm">
+        <thead class="table-success">
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col" class="d-none">Employee Id</th>
+                <th scope="col">First Name</th>
+                <th scope="col">Last Name</th>
+                <th scope="col">Email</th>
+                <th scope="col">Date of Birth</th>
+                <th scope="col">Age</th>
+                <th scope="col">Salary</th>
+                <th scope="col">Department</th>
+                <th scope="col" style="width: 150px;">Actions</th>
+            </tr>
+        </thead>
+        <tbody id="employeeBody">
+            <!-- Populate with JavaScript / Razor -->
+        </tbody>
+        <tfoot>
+            <tr class="table-secondary">
+                <td colspan="10" class="text-center"></td>
+            </tr>
+        </tfoot>
+    </table>
+</div>
+@section scripts {
+    <script src="~/scripts/employee/employee.js"></script>
+}

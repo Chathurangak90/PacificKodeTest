@@ -1,0 +1,134 @@
+﻿/* Custom colors for cards */
+.card {
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+    .card:hover {
+        transform: translateY(-8px);
+        box-shadow: 0 12px 20px rgba(0, 0, 0, 0.2);
+    }
+
+/* Different background colors for each card */
+.card-total-employees {
+    background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
+    color: white;
+}
+
+.card-departments {
+    background: linear-gradient(135deg, #fc5c7d 0%, #6a82fb 100%);
+    color: white;
+}
+
+.card-active-projects {
+    background: linear-gradient(135deg, #f7971e 0%, #ffd200 100%);
+    color: white;
+}
+
+/* Buttons with vibrant colors */
+.btn-primary {
+    background-color: #2575fc;
+    border: none;
+    font-weight: 600;
+    box-shadow: 0 4px 8px rgba(37, 117, 252, 0.3);
+    transition: background-color 0.3s ease;
+}
+
+    .btn-primary:hover {
+        background-color: #1a52d8;
+        box-shadow: 0 6px 12px rgba(26, 82, 216, 0.5);
+    }
+
+/* Header welcome section with gradient */
+.welcome-section {
+    background: linear-gradient(45deg, #6a11cb, #2575fc);
+    border-radius: 12px;
+    padding: 2rem;
+    color: white;
+    box-shadow: 0 8px 16px rgba(37, 117, 252, 0.4);
+}
+
+/* Responsive button container */
+.btn-group-custom {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+    .btn-group-custom .btn {
+        flex: 1 1 200px;
+    }
+/* Navbar background with subtle gradient */
+.navbar {
+    background: linear-gradient(90deg, #2575fc 0%, #6a11cb 100%);
+    box-shadow: 0 4px 8px rgba(101, 70, 255, 0.3);
+}
+
+/* Navbar brand styling */
+.navbar-brand {
+    color: #fff !important;
+    font-weight: 700;
+    font-size: 1.6rem;
+    letter-spacing: 1px;
+    transition: color 0.3s ease;
+}
+
+    .navbar-brand:hover {
+        color: #ffd700 !important; /* golden on hover */
+    }
+
+/* Navbar links */
+.navbar-nav .nav-link {
+    color: #e0e0e0 !important;
+    font-weight: 600;
+    margin-left: 1rem;
+    transition: color 0.3s ease;
+}
+
+    .navbar-nav .nav-link:hover,
+    .navbar-nav .nav-link.active {
+        color: #ffd700 !important; /* golden highlight */
+        text-decoration: underline;
+    }
+
+/* Navbar toggler icon color */
+.navbar-toggler {
+    border-color: #ffd700;
+}
+
+.navbar-toggler-icon {
+    filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(93deg) brightness(104%) contrast(104%);
+}
+
+/* Responsive collapse menu background */
+.navbar-collapse {
+    background-color: #3b2f9a;
+    border-radius: 0 0 12px 12px;
+    padding: 1rem;
+}
+
+    /* Add spacing and roundness for mobile menu items */
+    .navbar-collapse .nav-item {
+        margin-bottom: 0.75rem;
+    }
+
+@media (min-width: 576px) {
+    /* Remove extra padding on bigger screens */
+    .navbar-collapse {
+        background-color: transparent;
+        padding: 0;
+    }
+
+        .navbar-collapse .nav-item {
+            margin-bottom: 0;
+        }
+}
+
+.my-error-class {
+    color: red;
+    font-size: 0.875rem;
+    margin-top: 0.25rem;
+    display: block;
+}
+

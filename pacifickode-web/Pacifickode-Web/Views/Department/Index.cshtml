@@ -1,0 +1,62 @@
+﻿@{
+    ViewData["Title"] = "Departments";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4 text-primary">Departments</h2>
+
+    <!-- Add New Department Form -->
+    <div class="card mb-4 shadow-sm">
+        <div class="card-body">
+            <form id="departments" class="row g-3">
+                <div class="col-md-6">
+                    <input type="hidden" id="department-id" name="department-id" />
+                    <label for="DepartmentName" class="form-label">Department Code</label>
+                    <input type="text" name="department-code" id="department-code" class="form-control" placeholder="Enter department code" maxlength="10" />
+                </div>
+                <div class="col-md-6">
+                    <label for="Description" class="form-label">Department Name</label>
+                    <input type="text" name="department-name" id="department-name" class="form-control" placeholder="Enter department name" maxlength="100" />
+                </div>
+
+                <!-- Save Button Full Width at Bottom -->
+                <div class="row">
+                    <div class="col-6"style="width:74px;margin-top:5px;padding-left:8px">
+                        <button type="button" id="btn-new" class="btn btn-outline-secondary">New</button>
+                    </div>
+                    <div class="col-6"style="margin:5px">
+                        <button type="submit" id="btn-save" class="btn btn-primary">Save</button>
+                    </div>
+                </div>
+
+            </form>
+        </div>
+    </div>
+
+
+    <!-- Departments Table -->
+    <table class="table table-striped table-hover table-bordered shadow-sm">
+        <thead class="table-primary">
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col" class="d-none">Department Id</th>
+                <th scope="col">Department Code</th>
+                <th scope="col">Department Name</th>
+                <th scope="col" style="width: 150px;">Actions</th>
+            </tr>
+        </thead>
+        <tbody id="departmentBody">
+        </tbody>
+        <!-- Table footer -->
+        <tfoot>
+            <tr class="table-secondary">
+                <td colspan="4" class="text-center">
+                </td>
+            </tr>
+        </tfoot>
+    </table>
+</div>
+
+@section scripts{
+    <script src="~/scripts/department/departments.js"></script>
+}

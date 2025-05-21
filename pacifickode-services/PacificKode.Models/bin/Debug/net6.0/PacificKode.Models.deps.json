@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PacificKode.Models/1.0.0": {
+        "runtime": {
+          "PacificKode.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PacificKode.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

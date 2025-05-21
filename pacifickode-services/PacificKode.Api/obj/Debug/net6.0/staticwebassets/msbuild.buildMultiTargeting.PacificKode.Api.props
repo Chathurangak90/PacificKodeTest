@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PacificKode.Api.props" />
+</Project>

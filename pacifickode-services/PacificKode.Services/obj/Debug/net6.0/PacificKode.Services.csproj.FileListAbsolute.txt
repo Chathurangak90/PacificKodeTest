@@ -1,0 +1,15 @@
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Services\bin\Debug\net6.0\PacificKode.Services.deps.json
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Services\bin\Debug\net6.0\PacificKode.Services.dll
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Services\bin\Debug\net6.0\PacificKode.Services.pdb
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Services\bin\Debug\net6.0\PacificKode.Models.dll
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Services\bin\Debug\net6.0\PacificKode.Models.pdb
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Services\obj\Debug\net6.0\PacificKode.Services.csproj.AssemblyReference.cache
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Services\obj\Debug\net6.0\PacificKode.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Services\obj\Debug\net6.0\PacificKode.Services.AssemblyInfoInputs.cache
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Services\obj\Debug\net6.0\PacificKode.Services.AssemblyInfo.cs
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Services\obj\Debug\net6.0\PacificKode.Services.csproj.CoreCompileInputs.cache
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Services\obj\Debug\net6.0\PacificK.C6CFDBC6.Up2Date
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Services\obj\Debug\net6.0\PacificKode.Services.dll
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Services\obj\Debug\net6.0\refint\PacificKode.Services.dll
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Services\obj\Debug\net6.0\PacificKode.Services.pdb
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Services\obj\Debug\net6.0\ref\PacificKode.Services.dll

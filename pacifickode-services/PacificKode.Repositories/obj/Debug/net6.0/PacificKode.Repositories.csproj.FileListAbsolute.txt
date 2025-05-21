@@ -1,0 +1,17 @@
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Repositories\obj\Debug\net6.0\PacificKode.Repositories.csproj.AssemblyReference.cache
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Repositories\obj\Debug\net6.0\PacificKode.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Repositories\obj\Debug\net6.0\PacificKode.Repositories.AssemblyInfoInputs.cache
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Repositories\obj\Debug\net6.0\PacificKode.Repositories.AssemblyInfo.cs
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Repositories\obj\Debug\net6.0\PacificKode.Repositories.csproj.CoreCompileInputs.cache
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Repositories\bin\Debug\net6.0\PacificKode.Repositories.deps.json
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Repositories\bin\Debug\net6.0\PacificKode.Repositories.dll
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Repositories\bin\Debug\net6.0\PacificKode.Repositories.pdb
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Repositories\bin\Debug\net6.0\PacificKode.Models.dll
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Repositories\bin\Debug\net6.0\PacificKode.Services.dll
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Repositories\bin\Debug\net6.0\PacificKode.Services.pdb
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Repositories\bin\Debug\net6.0\PacificKode.Models.pdb
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Repositories\obj\Debug\net6.0\PacificK.77FE60D4.Up2Date
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Repositories\obj\Debug\net6.0\PacificKode.Repositories.dll
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Repositories\obj\Debug\net6.0\refint\PacificKode.Repositories.dll
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Repositories\obj\Debug\net6.0\PacificKode.Repositories.pdb
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Repositories\obj\Debug\net6.0\ref\PacificKode.Repositories.dll

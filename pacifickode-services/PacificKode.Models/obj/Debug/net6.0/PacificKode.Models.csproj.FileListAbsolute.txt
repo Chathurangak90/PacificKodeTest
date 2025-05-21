@@ -1,0 +1,11 @@
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Models\bin\Debug\net6.0\PacificKode.Models.deps.json
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Models\bin\Debug\net6.0\PacificKode.Models.dll
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Models\bin\Debug\net6.0\PacificKode.Models.pdb
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Models\obj\Debug\net6.0\PacificKode.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Models\obj\Debug\net6.0\PacificKode.Models.AssemblyInfoInputs.cache
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Models\obj\Debug\net6.0\PacificKode.Models.AssemblyInfo.cs
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Models\obj\Debug\net6.0\PacificKode.Models.csproj.CoreCompileInputs.cache
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Models\obj\Debug\net6.0\PacificKode.Models.dll
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Models\obj\Debug\net6.0\refint\PacificKode.Models.dll
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Models\obj\Debug\net6.0\PacificKode.Models.pdb
+D:\Chathuranga\TestCode\Assessment\PacificKodeTest\pacifickode-services\PacificKode.Models\obj\Debug\net6.0\ref\PacificKode.Models.dll
