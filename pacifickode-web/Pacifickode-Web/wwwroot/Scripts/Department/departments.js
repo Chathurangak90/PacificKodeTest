@@ -23,9 +23,9 @@
 
         // Form submission handler if validation passes
         submitHandler: function (form) {
-            let checkbtncheck = $("#btn-save").text(); // Check if we are updating or saving new data
+            let btnText = $("#btn-save").text(); // Check if we are updating or saving new data
 
-            if (checkbtncheck == 'Update') {
+            if (btnText == 'Update') {
                 updateData(); // Call update function
             } else {
                 saveData(); // Call save function
